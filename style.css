@@ -1,0 +1,519 @@
+body {
+    margin: 0;
+}
+.nav-left h3 a {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    top: 13px;
+    color: rgba(255, 255, 255, 1);
+}
+a {
+    text-decoration: none;
+}
+.nav-left a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.nav-right1 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: right;
+    color: rgba(255, 255, 255, 1);
+}
+header {
+    background: rgba(141, 92, 246, 1);
+}
+.nav-right2 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    background: rgba(255, 123, 82, 1);
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    gap: 15px;
+    height: fit-content;
+}
+.nav {
+    display: flex;
+    top: 16px;
+    left: 364px;
+    padding: 3px 0px 3px 0px;
+    gap: 30px;
+}
+.nav-left {
+    display: flex;
+    gap: 30px;
+}
+.nav-right {
+    display: flex;
+    gap: 30px;
+    float: left;
+    align-items: center;
+}
+.head-content h1 {
+    font-family: Montserrat;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    padding: 15px;
+}
+.head-content h4 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.head-buttons1 {
+    background: rgba(255, 123, 82, 1);
+    padding: 15px 40px 15px 40px;
+    border-radius: 5px;
+    gap: 10px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    margin: 5px;
+    margin-bottom: 152px;
+}
+.head-buttons2 {
+    background: rgba(141, 92, 246, 1);
+    padding: 15px 40px 15px 40px;
+    border-radius: 5px;
+    gap: 10px;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    margin: 5px;
+    margin-bottom: 152px;
+}
+.head-buttons {
+    display: flex;
+    justify-content: center;
+}
+.nav-left {
+    display: flex;
+    gap: 83px;
+    width: 100%;
+}
+.nav-left2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+.nav-menu {
+    display: flex;
+    list-style-type: none;
+    gap: 21px;
+}
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.container1 {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+.container2 {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+section {
+    background: rgba(38, 51, 93, 1);
+    padding: 60px 0;
+}
+section .title {
+    margin-bottom: 34px;
+}
+section .title h6 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(141, 92, 246, 1);
+    margin: 0;
+}
+section .title h2 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin: 0;
+}
+section .title p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin: 0;
+}
+.middle h5 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+.content1 hr {
+    width: 50px;
+    height: 2px;
+    background: rgba(231, 64, 64, 1);
+}
+.middle p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(115, 115, 115, 1);
+}
+.medium {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.middle {
+    background: rgba(255, 255, 255, 1);
+    width: 230px;
+    height: 292px;
+    padding: 35px 40px 35px 40px;
+    gap: 20px;
+}
+.middle:hover {
+    background-color: rgba(141, 92, 246, 1);
+    color: white;
+}
+.middle:hover hr {
+    background-color: white;
+}
+.middle:hover p {
+    color: white;
+}
+.middle2,
+.middle4 {
+    margin-top: 60px;
+}
+.bord {
+    width: 50px;
+    display: block;
+    border-bottom: 3px solid red;
+}
+.img1 a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(141, 92, 246, 1);
+}
+.img1 h5 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+}
+.img2 {
+    background: rgba(255, 255, 255, 1);
+    width: 241px;
+    height: 300px;
+}
+.img {
+    display: flex;
+}
+.img1 {
+    margin-right: 120px;
+}
+.many {
+    display: flex;
+}
+.img1 p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(115, 115, 115, 1);
+}
+.many h5 {
+    padding-right: 7px;
+}
+.many1 {
+    color: rgba(189, 189, 189, 1);
+}
+.many2 {
+    color: rgba(255, 123, 82, 1);
+}
+.img button {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(141, 92, 246, 1);
+}
+
+.container1 h2 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: white;
+}
+.container1 p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: white;
+}
+.container1 a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: rgba(141, 92, 246, 1);
+}
+.container1 span {
+    width: 94px;
+    height: 7px;
+}
+.glav {
+    background-color: white;
+    width: 50%;
+    padding: 25px 25px 0px 25px;
+    justify-content: center;
+    text-align: center;
+    margin-right: 50px;
+}
+.title1 {
+    display: flex;
+}
+.glav p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(115, 115, 115, 1);
+}
+.glav h5 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: center;
+    color: rgba(37, 43, 66, 1);
+}
+.glav h6 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(115, 115, 115, 1);
+}
+.glav img {
+    border-radius: 50%;
+}
+.ful-glav {
+    display: flex;
+}
+.ful {
+    background-color: white;
+    margin-right: 116px;
+    border-radius: 20px;
+}
+.container1 {
+    display: flex;
+}
+.container1 img {
+    width: 50%;
+}
+.image-content1 {
+    width: 50%;
+}
+.video-content1 {
+    width: 50%;
+}
+.container1 video {
+    width: 508px;
+    height: 363px;
+    margin-left: 152px;
+}
+.ful1 {
+    text-align: center;
+}
+.ful1 a {
+    margin: 6px;
+}
+.ful img {
+    border-radius: 20px;
+}
+.footer-menu1 h6 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(141, 92, 246, 1);
+    margin: 0;
+}
+.footer-menu1 h2 {
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+.footer-menu1 p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+footer {
+    background: rgba(38, 51, 93, 1);
+}
+.footer-menu1 input {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    margin-top: 20px;
+}
+.footer-menu1 button {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+.footer-menu {
+    display: flex;
+}
+.footer-menu h5 {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.10000000149011612px;
+    text-align: left;
+    color: white;
+}
+.footer-menu a {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: white;
+}
+ul {
+    list-style: none;
+}
+.footer-menu1 input {
+    margin-left: 400px;
+    width: 400px;
+    height: 35px;
+}
+.footer-menu1 button {
+    width: 80px;
+    height: 42px;
+    margin-bottom: 120px;
+    background: rgba(141, 92, 246, 1);
+}
+.footer-end2 {
+    padding: 20px 0;
+    background: rgba(250, 250, 250, 1);
+}
+.footer-end2 h6 {
+    margin: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+}
+.footer-end2 img {
+    margin-top: 15px;
+    margin-right: 8px;
+}
+.footer-end h6 {
+    color: white;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: left;
+    color: white;
+    margin: 0;
+    display: inline-block;
+    margin-left: 15px;
+}
+.end {
+    display: flex;
+    justify-content: space-between;
+}
